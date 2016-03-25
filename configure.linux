@@ -92,7 +92,8 @@ enable gu
 enable avahi
 enable libxss
 enable libxv
-enable openssl
+#enable openssl
+enable polarssl
 enable locatedb
 enable vdpau
 enable libxxf86vm
