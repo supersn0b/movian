@@ -110,6 +110,7 @@ static const struct {
   { "video/avi", "avi" },
   { "video/nsv", "nsv" },
   { "video/webm", "webm" },
+  { "video/x-flv", "flv" },  
   { "audio/x-mpeg", "mp3" },
   { "audio/mpeg", "mp3" },
   { "application/ogg", "ogg" },
